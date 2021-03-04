@@ -1,0 +1,17 @@
+.navbar-brand {
+	font-weight: bold;
+	margin-top: 7px ; 
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.nav-link {
+	margin-top: 7px ; 
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.badge badge-warning{
+    font-size: 1.5em;
+}
+
+body { font-family: ; }
